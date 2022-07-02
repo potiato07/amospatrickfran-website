@@ -1,0 +1,26 @@
+body {
+    background-image: url("land.png");
+    background-size:100%;
+    font-size: x-large;
+     }
+
+    div {
+        font-family: 'Courier New', Courier, monospace; 
+        border: 2px solid rgb(184, 156, 17);
+        border-radius: 6px;
+        background-color: rgb(184, 156, 17);
+        text-shadow: 2px 2px rgb(255, 202, 97); 
+        } 
+
+    h2 {
+       font-family: 'Courier New', Courier, monospace; 
+       color: rgb(0, 0, 0); 
+       text-shadow: 2px 2px rgb(255, 255, 255); 
+       }
+
+    h3 {
+       font-family: 'Courier New', Courier, monospace; 
+       color: rgb(0, 0, 0); 
+       text-shadow: 2px 2px rgb(255, 255, 255); 
+       }
+
